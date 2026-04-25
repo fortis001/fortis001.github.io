@@ -1,0 +1,23 @@
+# OS Metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE and Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and Databases
+*.log
+*.sqlite
+
+# Local Environment
+node_modules/
+dist/
+build/
+
+# Backup files
+*.bak
+*.tmp
